@@ -1,0 +1,1 @@
+$(document).ready(funcion(){alert("HOLA MUNDO");});
